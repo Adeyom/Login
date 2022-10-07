@@ -1,0 +1,145 @@
+body{
+    background-color: rgba(1, 6, 22, 0.849);
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    }
+
+
+#contenedor{
+    width: 400px;
+	height: 500px;
+    background-color: rgb(53, 61, 65); 
+    position: relative;
+    
+}
+
+
+.contenido{
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    margin: auto;
+    
+}
+
+/* imagen de usuario */
+#imagen_usuario{
+    background-color: rgb(29, 83, 47);
+   margin-top: -50px;
+   border-radius: 50%;
+   height: 120px;
+    width: 120px;
+}
+
+    #tamaño{
+        height: 100px;
+        width: 100px;
+    }
+
+
+
+#bienvenido{
+    background-color: rgb(29, 83, 47);
+    margin-top: 10px;
+    width: 400px;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-style: italic;
+    color: aliceblue;
+}
+
+
+/* campo usuario */
+#usuario{
+    margin-top: 50px;
+    margin-left: 65px;
+    height: 40px;
+    width: 300px;
+    font-size: 25px;
+    background-color:rgb(53, 61, 65);
+
+}
+
+
+
+    #mail{
+        height: 20px;
+    }
+
+
+/* campo contraseña */
+#contraseña{
+    background-color: rgb(53, 61, 65);
+    margin-top: 20px;
+    height: 40px;
+    width: 300px;
+    font-size: 25px;
+    
+
+}
+
+        #contra{
+            height: 20px;
+        }
+
+
+
+/* boton inicio de sesion */
+#boton{
+    background-color: rgb(53, 61, 65);
+    margin-top: 30px;
+    height: 40px;
+    width: 300px;
+    font-size: 25px;
+}
+
+        #button{
+            width: 200px;
+    height: 50px;
+    color: whitesmoke;
+    background-color: rgb(29, 83, 47);
+    border-radius: 10px;
+    font-size: medium;
+        }
+
+
+
+/* olvidaste contraseña + nuevo usuario */
+#pie{
+    background-color: rgb(53, 61, 65);
+    margin-top: 40px;
+    height: 30px;
+    width: 300px;
+    font-size: 20px;
+    
+}
+
+#nueva{
+    background-color: rgb(53, 61, 65);
+    margin-top: 0px;
+    height: 30px;
+    width: 300px;
+    font-size: 20px;    
+}
+
+a{
+    color: beige;
+    font-size: 15px;
+}
+
+.controles{
+    margin-top: 30px;
+    margin-left: 55px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: rgb(29, 83, 47); 
+    height: 20px;
+    width: 270px;
+    background-color: rgb(53, 65, 56); 
+    font-family: 'calibri';
+    font-size: 18px;
+    color: whitesmoke;
+}

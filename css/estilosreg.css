@@ -1,0 +1,72 @@
+body{
+    background-color: rgba(1, 6, 22, 0.849);
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    }
+
+#contenedor{
+    width: 400px;
+    height: 500px;
+    background-color: rgb(53, 61, 65); 
+    
+        
+    }
+
+
+    
+    
+h4 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'calibri';
+    color: white;
+    margin-bottom: 20px;   
+}
+
+.cajas_texto{
+    background-color: rgb(53, 61, 65); 
+    width: 300px;
+    margin: auto;
+}
+
+.controles{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: rgb(29, 83, 47); 
+    height: 20px;
+    width: 270px;
+    background-color: rgb(53, 65, 56); 
+    font-family: 'calibri';
+    font-size: 18px;
+    color: whitesmoke;
+}
+
+.boton{
+    background-color: rgb(53, 65, 56); 
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#button{
+    width: 200px;
+    height: 50px;
+    color: whitesmoke;
+    background-color: rgb(29, 83, 47);
+    border-radius: 10px;
+    font-size: medium;
+    
+    
+}
+
+a{
+    color: aliceblue;
+    background-color: rgb(53, 61, 65); 
+    margin-left: 135px;
+    
+}
